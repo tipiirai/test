@@ -1,8 +1,8 @@
------------
+---
 front: matter
 should: be
 like: this
------------
+---
 
 
 # This is a title
